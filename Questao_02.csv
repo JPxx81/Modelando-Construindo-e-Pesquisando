@@ -1,0 +1,8 @@
+cod_pedido,data_pedido,num_mesa,nome_cliente,nome_cafe,descricao,quantidade,preco_unitario,preco_total_do_item
+"1001,""2025-10-20 10:30:00"",5,""Ana Silva"",""Expresso Simples"",""Cafe puro, moagem media."",2,5.00,10.00"
+"1002,""2025-10-20 11:00:00"",12,""Bruno Costa"",""Cappuccino Classico"",""Expresso, leite vaporizado e espuma."",1,8.50,8.50"
+"1002,""2025-10-20 11:00:00"",12,""Bruno Costa"",""Mocca Gelado"",""Expresso, chocolate, leite e gelo."",1,12.00,12.00"
+"1003,""2025-10-21 15:45:00"",3,""Carla Dantas"",""Latte Caramelo"",""Expresso, leite vaporizado, caramelo."",3,10.00,30.00"
+"1004,""2025-10-21 16:00:00"",8,""Daniel Souza"",""Cappuccino Classico"",""Expresso, leite vaporizado e espuma."",1,8.50,8.50"
+"1004,""2025-10-21 16:00:00"",8,""Daniel Souza"",""Expresso Simples"",""Cafe puro, moagem media."",1,5.00,5.00"
+"1004,""2025-10-21 16:00:00"",8,""Daniel Souza"",""Pao de Queijo"",""Porcao com 3 unidades."",2,7.00,14.00"
